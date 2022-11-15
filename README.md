@@ -1,5 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/lopezgarcialuisdaniel/proyectolaravel1/blob/master/Prueba.png" width="800"></a></p><br>
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/lopezgarcialuisdaniel/proyectolaravel1/blob/master/Prueba2.png" width="800"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/lopezgarcialuisdaniel/proyectolaravel1/blob/master/Prueba2.png" width="800"></a></p><br>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/lopezgarcialuisdaniel/proyectolaravel1/blob/master/Prueba3.png" width="800"></a></p>
 
 ## Aplicación con panel básico y operaciones CRUD
 
